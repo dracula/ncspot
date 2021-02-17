@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [ncspot](https://github.com/hrkfdn/ncspot)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [ncspot](https://github.com/hrkfdn/ncspot).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ncspot](https://draculatheme.com/ncspot).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Mike Basinger](https://avatars.githubusercontent.com/u/2634758?s=100)](https://github.com/dbasinge) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Mike Basinger](https://github.com/dbasinge) |
 
 ## License
 
